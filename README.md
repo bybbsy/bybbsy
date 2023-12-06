@@ -10,5 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-            <i class="devicon-nodejs-plain-wordmark colored"></i>
+            
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+          
           
